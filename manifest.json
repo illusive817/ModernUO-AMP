@@ -1,10 +1,11 @@
-
 {
   "id": "c685144d-06a8-4a3a-9a71-239ca0baf120",
-  "authors": ["illusive817"],
+  "authors": [
+    "illusive817"
+  ],
   "origin": "https://github.com/illusive817/ModernUO-AMP.git",
   "url": "https://github.com/illusive817/ModernUO-AMP",
   "imagefile": "",
-  "prefix": "Illusive"
+  "prefix": "IllusiveUO",
   "repotype": "AppTemplates"
 }
