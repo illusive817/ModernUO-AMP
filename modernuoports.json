@@ -1,0 +1,11 @@
+[
+  {
+    "Protocol": "TCP",
+    "Port": 2593,
+    "Offset": 0,
+    "Range": 1,
+    "Ref": "GamePort",
+    "Name": "Game Port",
+    "Description": "Ultima Online client connection"
+  }
+]
